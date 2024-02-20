@@ -14,11 +14,11 @@ For the sake of this assignment, our wizardry will consist of bringing in our ow
 
 ## Prototype Visuals:
 Home: ![Alt Text](homepage.png)
-click common: ![Alt Text](commontab.png)
-click trade: ![Alt Text](trading.png)
-submitting trade for review by Bob: ![Alt Text](bobtrades.png)
-confirmed trade: ![Alt Text](confirmation.png)
-clicking message to plan trade: ![Alt Text](messaging.png)
+Clicking common: ![Alt Text](commontab.png)
+Clicking trade: ![Alt Text](trading.png)
+Submitting trade for review by Bob: ![Alt Text](bobtrades.png)
+Confirming trade: ![Alt Text](confirmation.png)
+Clicking message to plan trade: ![Alt Text](messaging.png)
 Favoriting Page: ![Alt Text](homepage.png)
-click heart: ![Alt Text](hearting.png)
-View favorite page: ![Alt Text](favorites.png)
+Clicking heart: ![Alt Text](hearting.png)
+Viewing favorite page: ![Alt Text](favorites.png)
