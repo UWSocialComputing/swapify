@@ -13,7 +13,7 @@ On our favorites page, users can check which items are liked by the user themsel
 For the sake of this assignment, our wizardry will consist of bringing in our own Sonny Angels to simulate a “fake online trade.” Since it’s difficult to simulate specific scenarios in our mock-up, such as adding items and declining requests, we will physically be doing this in our peer review. Additionally, we will fake “favoriting” a specific Sonny Angel while browsing through a specific category.
 
 ## Prototype Visuals:
-Home:                                   click common                   click trade
+Home: ![Alt Text](/Users/gwong/swpify/swapify-1/pictures/homepage.png)                                  click common                   click trade
 
 
 
