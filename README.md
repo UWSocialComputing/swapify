@@ -12,6 +12,10 @@ You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.or
 # Project
 
 # Meet the Team!
+Nancy Jimenez-Garcia (she/her)
+Nora Medina
+Andy Thai
+Gai Wai Wong
 
 # Blog Posts
 - [G1: User Research Report](./_posts/G1.md)
