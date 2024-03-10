@@ -13,3 +13,7 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 theme: minima
+
+collections:
+  posts:
+    output: true
