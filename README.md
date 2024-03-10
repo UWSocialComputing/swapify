@@ -14,12 +14,12 @@ You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.or
 # Meet the Team!
 
 # Blog Posts
-- [G1: User Research Report](./_posts/G1.md)
-- [G2: Pitch Presentation](./_posts/G2.md)
-- [G3A: Components](./_posts/G3AC.md)
-- [G3BC: Report for Low Fidelity Prototype](./_posts/G3C.md)
-- [G4: Code and Design Specification](./_posts/G4.md)
-- [G5: Midterm Presentation](./_posts/G5.md)
-- [G6: User Testing](./_posts/G6.md)
-- [G7: Digital Prototype](./_posts/G7.md)
-- [G8: Video Demo](./_posts/G8.md)
+- [G1: User Research Report](./_posts/2024-03-09-G1.md)
+- [G2: Pitch Presentation](./_posts/2024-03-09-G2.md)
+- [G3A: Components](./_posts/2024-03-09-G3AC.md)
+- [G3BC: Report for Low Fidelity Prototype](./_posts/2024-03-09-G3C.md)
+- [G4: Code and Design Specification](./_posts/2024-03-09-G4.md)
+- [G5: Midterm Presentation](./_posts/2024-03-09-G5.md)
+- [G6: User Testing](./_posts/2024-03-09-G6.md)
+- [G7: Digital Prototype](./_posts/2024-03-09-G7.md)
+- [G8: Video Demo](./_posts/2024-03-09-G8.md)
