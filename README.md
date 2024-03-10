@@ -14,4 +14,11 @@ You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.or
 # Meet the Team!
 
 # Blog Posts
-- [Blog Post 1](blog_posts/G1.md)
+[User Research Report](./_posts/2024-03-09-G1.md)
+[Blog Post 2](blog_posts/G2.md)
+[Blog Post 3](blog_posts/G3.md)
+[Blog Post 4](blog_posts/G4.md)
+[Blog Post 5](blog_posts/G5.md)
+[Blog Post 6](blog_posts/G6.md)
+[Blog Post 7](blog_posts/G7.md)
+[Blog Post 8](blog_posts/G8.md)
