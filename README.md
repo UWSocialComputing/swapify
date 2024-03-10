@@ -12,8 +12,7 @@ You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.or
 # Project
 
 # Website Demo
-https://youtu.be/rKuzgFIxKzA
-
+[![Watch the video](https://img.youtube.com/vi/rKuzgFIxKzA/maxresdefault.jpg)](https://youtu.be/rKuzgFIxKzA)
 ## Meet the Team!
 ### Nancy Jimenez-Garcia (she/her)
 ### Nora Medina
