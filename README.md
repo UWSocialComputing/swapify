@@ -14,7 +14,7 @@ You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.or
 # Meet the Team!
 
 # Blog Posts
-- [G1: User Research Report](./_posts/2024-03-09-G1.md)
+- [G1: User Research Report](./_posts/G1.md)
 - [G2: Pitch Presentation](./_posts/2024-03-09-G2.md)
 - [G3A: Components](./_posts/2024-03-09-G3AC.md)
 - [G3BC: Report for Low Fidelity Prototype](./_posts/2024-03-09-G3C.md)
