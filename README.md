@@ -19,12 +19,12 @@ You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.or
 ### Gai Wai Wong
 
 ## Blog Posts
-- [G1: User Research Report](./_posts/G1.md)
-- [G2: Pitch Presentation](./_posts/G2.md)
-- [G3A: Components](./_posts/G3AC.md)
-- [G3BC: Report for Low Fidelity Prototype](./_posts/G3C.md)
-- [G4: Code and Design Specification](./_posts/G4.md)
-- [G5: Midterm Presentation](./_posts/G5.md)
-- [G6: User Testing](./_posts/G6.md)
-- [G7: Digital Prototype](./_posts/G7.md)
-- [G8: Video Demo](./_posts/G8.md)
+- [G1: User Research Report](./posts/G1.md)
+- [G2: Pitch Presentation](./posts/G2.md)
+- [G3A: Components](./posts/G3AC.md)
+- [G3BC: Report for Low Fidelity Prototype](./posts/G3C.md)
+- [G4: Code and Design Specification](./posts/G4.md)
+- [G5: Midterm Presentation](./posts/G5.md)
+- [G6: User Testing](./posts/G6.md)
+- [G7: Digital Prototype](./posts/G7.md)
+- [G8: Video Demo](./posts/G8.md)
