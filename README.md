@@ -11,12 +11,15 @@ You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.or
 
 # Project
 
-
 ## Meet the Team!
 ### Nancy Jimenez-Garcia (she/her)
-### Nora Medina
-### Andy Thai
-### Gai Wai Wong
+![Headshot of Nancy Jimenez-Garcia](nancy.jpg)
+### Nora Medina (she/her)
+
+### Andy Thai (he/him)
+
+### Gai Wai Wong (she/her)
+![Headshot of Gai Wai Wong](gaiwai.jpeg)
 
 ## Blog Posts
 - [G1: User Research Report](./posts/G1.md)
