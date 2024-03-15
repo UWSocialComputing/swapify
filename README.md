@@ -1,5 +1,6 @@
+![SonnySwap Logo](logo.png){: width="250" }
 # Project
-Welcome to SonnySwap! ![SonnySwap Logo](logo.png){: width="250" }
+Welcome to SonnySwap!
 
 We've created a web application that allows individuals the opportunity to trade Sonny Angels with other enthusiasts. We aim to provide a space for a diverse range of individuals, including Sonny Angel enthusiasts, where they can have a way to  connect, trade, and share their inventories with ease.
 
