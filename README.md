@@ -13,21 +13,21 @@ You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.or
 
 ## Meet the Team!
 ### Nancy Jimenez-Garcia (she/her)
-![Headshot of Nancy Jimenez-Garcia](nancy.jpg)
+![Headshot of Nancy Jimenez-Garcia](nancy.jpg){: width="250" }
 ### Nora Medina (she/her)
 
 ### Andy Thai (he/him)
 
 ### Gai Wai Wong (she/her)
-![Headshot of Gai Wai Wong](gaiwai.jpeg)
+![Headshot of Gai Wai Wong](gaiwai.jpeg){: width="250" }
 
 ## Blog Posts
-- [G1: User Research Report](./posts/G1.md)
-- [G2: Pitch Presentation](./posts/G2.md)
-- [G3A: Components](./posts/G3AC.md)
-- [G3BC: Report for Low Fidelity Prototype](./posts/G3C.md)
-- [G4: Code and Design Specification](./posts/G4.md)
-- [G5: Midterm Presentation](./posts/G5.md)
-- [G6: User Testing](./posts/G6.md)
-- [G7: Digital Prototype](./posts/G7.md)
-- [G8: Video Demo](./posts/G8.md)
+### [G1: User Research Report](./posts/G1.md)
+### [G2: Pitch Presentation](./posts/G2.md)
+### [G3A: Components](./posts/G3AC.md)
+### [G3BC: Report for Low Fidelity Prototype](./posts/G3C.md)
+### [G4: Code and Design Specification](./posts/G4.md)
+### [G5: Midterm Presentation](./posts/G5.md)
+### [G6: User Testing](./posts/G6.md)
+### [G7: Digital Prototype](./posts/G7.md)
+### [G8: Video Demo](./posts/G8.md)
